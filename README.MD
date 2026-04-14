@@ -1,4 +1,4 @@
-Toolbox Hotfixes for Auro Mod % Auto-Heal Mod
+Toolbox Hotfixes for Aura-Range Mod & Auto-Heal Mod
 
 Replace this files in (example path):
 
