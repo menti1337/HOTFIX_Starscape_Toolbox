@@ -1,7 +1,4 @@
-# Tera Starscape Toolbox Hotfixes required for Mods: 
-https://github.com/menti1337/auto-heal
-
-https://github.com/menti1337/aura-range
+# Tera Starscape Toolbox Hotfixes required for some Mods.
 
 Replace this files in (example path):
 
